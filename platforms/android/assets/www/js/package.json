@@ -5,10 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^2.4.1",
+    "skynet": "^0.0.47",
+    "skynet-bean": "^0.3.0",
+    "skynet-ble": "^0.1.0",
     "skynet-greeting": "^0.8.0",
     "skynet-rest": "^0.3.0",
-    "skynet-ble": "^0.1.0",
-    "skynet": "^0.0.47"
+    "ws": "^0.4.32"
   },
   "devDependencies": {},
   "scripts": {
